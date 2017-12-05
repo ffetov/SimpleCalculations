@@ -1,0 +1,6 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

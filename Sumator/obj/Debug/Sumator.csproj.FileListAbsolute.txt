@@ -1,0 +1,10 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\bin\Debug\Sumator.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\bin\Debug\Sumator.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\bin\Debug\Sumator.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.Properties.Resources.resources
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.csproj.GenerateResource.Cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Sumator\obj\Debug\Sumator.Form1.resources

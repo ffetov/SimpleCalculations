@@ -1,0 +1,7 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\bin\Debug\HelloSoftuni.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\bin\Debug\HelloSoftuni.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\bin\Debug\HelloSoftuni.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\obj\Debug\HelloSoftuni.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\obj\Debug\HelloSoftuni.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\obj\Debug\HelloSoftuni.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\HelloSoftuni\obj\Debug\HelloSoftuni.pdb

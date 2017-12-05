@@ -1,0 +1,7 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\bin\Debug\SimpleCalculations.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SimpleCalculations\obj\Debug\SimpleCalculations.pdb

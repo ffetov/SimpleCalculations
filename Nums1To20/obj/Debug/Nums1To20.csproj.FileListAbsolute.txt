@@ -1,0 +1,6 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\bin\Debug\Nums1To20.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\bin\Debug\Nums1To20.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\bin\Debug\Nums1To20.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\obj\Debug\Nums1To20.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\obj\Debug\Nums1To20.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\Nums1To20\obj\Debug\Nums1To20.pdb

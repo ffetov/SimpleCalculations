@@ -1,0 +1,6 @@
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\bin\Debug\SquareOfStars.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\bin\Debug\SquareOfStars.pdb
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\obj\Debug\SquareOfStars.csproj.CoreCompileInputs.cache
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\obj\Debug\SquareOfStars.exe
+C:\Users\Fetta Fetov\source\repos\SimpleCalculations\SquareOfStars\obj\Debug\SquareOfStars.pdb
